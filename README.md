@@ -8,6 +8,8 @@ This project is a Flask-based Python Weather App that uses the OpenWeatherMap AP
 
 I chose this project because weather applications combine real-time data retrieval, API integration, and visual presentation, allowing me to practice working with external data sources, environment variables, and web frameworks. Building this app strengthened my understanding of full-stack Python development while creating something practical and visually engaging.
 
+## Walk-through video: https://youtu.be/DCq7rCiSEnM
+
 ### Dependencies
 
 Before running the program, ensure you have the following:
@@ -38,6 +40,15 @@ To run the application:
 3. Run the file "app.py".
 4. Follow the link to open your browser.
 From here, enter any city name to view its real-time weather and corresponding map.
+
+### Things I learned
+
+Throughout this project, I learned:
+- How to work with external APIs
+- How to store sensitive data securely
+- How backend and frontend communicate in a Python web app
+- How to generate and embed dynamic maps
+- And most importantly, how to debug issues when things don’t work as expected
 
 ## Acknowledgments
 
